@@ -69,3 +69,5 @@ Cheers
 
 Malik Mesellem
 Twitter: @MME_IT
+
+I have edited to Dockerfile to pull and ARM64 compatable fork of MySQL 5.
